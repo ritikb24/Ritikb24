@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ritik Bhure</h1>
-<h3 align="center">Frontend & Backend Web Developer | UI Designer</h3>
+<h3 align="center">FullStack Developer | UI Designer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ritikbhure&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,8 +11,8 @@
 ## 👨‍💻 About Me  
 
 - 🎓 I am a **student & web developer**
-- 💻 Skilled in **Frontend, Backend & UI Design**
-- 🌱 Currently improving my **React & Java** skills  
+- 💻 Skilled in **FullStack Developement & UI Design**
+- 🌱 Currently improving my **Mearn Stack & Java** skills and learning **DSA**
 - 🎨 I love designing interfaces using **Figma**
 - 🚀 Passionate about building clean, responsive, and user-friendly applications  
 
